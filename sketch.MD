@@ -1,5 +1,21 @@
 Rambling thoughts
 
+Creator
+|_ create product (name,description,price,upload media)
+|_ publish product (generate url for customers to buy)
+|\_
+
+Login/SignUp
+Creator Dashboard
+Create Product
+Customer Product purchase Review
+
+Services
+|_ Payment processor
+|_ File storage(Firebase/AWS)
+|_ Databse (MYSQL,MongoDB)
+|_ Image storage (cloudinary)
+
 RESOURCES
 /api/v1/users
 /api/v1/auth

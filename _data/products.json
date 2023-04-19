@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Random title",
+    "price": 20,
+    "category": "books",
+    "description": "a random item",
+    "image": ""
+  },
+
+  {
+    "id": 30,
+    "title": "another Random title",
+    "price": 23,
+    "category": "pdfs",
+    "description": "a good book to check on hermaneutics",
+    "image": ""
+  }
+]
