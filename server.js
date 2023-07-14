@@ -10,7 +10,6 @@ const app = express(); //instance of express
 
 //route files
 const products = require("./routes/products");
-const { promise } = require("bcrypt/promises");
 
 //mount routers
 app.use("/api/v1/products", products);
